@@ -1,0 +1,30 @@
+body{
+  background-color: green;
+}
+#wrapper{
+	width:900px;
+	margin:0 auto;
+}
+#leftbody{
+	float:left;
+	width:150px;
+	height: 150px;
+	background-color:blue;
+	padding:50px;
+}
+#rightbody{
+	float:right;
+	width:150px;
+	height: 150px;
+	background-color:red;
+	padding:50px;
+}
+#middle{
+float:left;
+margin:525px;
+margin-top: 0px;
+	width:150px;
+	height: 150px;
+	background-color:yellow;
+	padding:50px;
+}
